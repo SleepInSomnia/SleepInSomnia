@@ -15,20 +15,20 @@
   </div>
 
   <div id="dreamcatcher">
-    <img id = "dreamcatcher_logo" src = "imagem_2022-09-30_183226433.png" width = 120px>
+    <img id = "dreamcatcher_logo" src = "imagem_2022-09-30_183226433.png" width = 150px>
     <p>Utts: Gahyeon & Yoohyeon</p>
     <div id="utts_image">
-      <img id = "dreamcatcher_logo" src = "imagem_2022-09-30_183226433.png" width = 120px>
-      <img id = "dreamcatcher_logo" src = "imagem_2022-09-30_183226433.png" width = 120px>
+      <img id = "dreamcatcher_logo" src = "imagem_2022-09-30_200845541.png" width = 240px>
+      <img id = "dreamcatcher_logo" src = "imagem_2022-09-30_200417884.png" width = 240px>
     </div>
   </div>
   <hr>
   <div id="rolling_quartz">
-    <img id = "rolling_quartz_logo" src = "imagem_2022-09-30_184334480.png" width = 120px>
+    <img id = "rolling_quartz_logo" src = "imagem_2022-09-30_184334480.png" width = 150px>
     <p>Utts: Yeongeun & Arem</p>
     <div id="utts_image">
-      <img id = "rolling_quartz_logo" src = "imagem_2022-09-30_184334480.png" width = 120px>
-      <img id = "rolling_quartz_logo" src = "imagem_2022-09-30_184334480.png" width = 120px>
+      <img id = "rolling_quartz_logo" src = "imagem_2022-09-30_201705633.png" width = 200px>
+      <img id = "rolling_quartz_logo" src = "imagem_2022-09-30_201629291.png" width = 200px>
     </div>
   </div>
 </div>
