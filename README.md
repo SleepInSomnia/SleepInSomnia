@@ -28,7 +28,7 @@
   <hr>
   
   <div id="rolling_quartz">
-    <img id = "rolling_quartz_logo" src = "imagem_2022-09-30_184334480.png" width = 150px>
+    <img id = "rolling_quartz_logo" src = "imagem_2022-09-30_184334480.png" width = 210px>
     <p>Utts: Yeongeun & Arem</p>
     <div id="utts_image">
       <img id = "yeongeun_image" src = "imagem_2022-09-30_201705633.png" width = 200px>
