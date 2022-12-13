@@ -30,10 +30,10 @@
   <hr>
   
    <div id="idle">
-    <img id = "idle_logo" src = "imagem_2022-09-30_183226433.png" width = 150px>
+    <img id = "idle_logo" src = "2560px-(G)I-dle_logo.svg.png" width = 300px>
     <p>Utts: Yuqi & Soyeon</p>
     <div id="utts_image">
-      <img id = "Yuqi_image" src = "EX89mHrXkAAhmaq.jpg" width = 240px>
+      <img id = "Yuqi_image" src = "EX89mHrXkAAhmaq.jpg" width = 317px>
       <img id = "Soyeon_image" src = "1509545f68a2e780d339cb48ed951a73.jpg" width = 240px>
     </div>
 
